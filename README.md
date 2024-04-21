@@ -1,6 +1,6 @@
 # Movie Name Search Engine
 This is a simple movie name search engine developed using Streamlit, SQLite, and Sentence Transformers. The application allows users to search for movie names based on the similarity of their subtitles to a given query. It utilizes cosine similarity between embeddings generated from the subtitles and the query to retrieve the most relevant movie names.
-
+!searchengine.png
 ## Features
 ### Query-Based Search:
 Users can enter a query related to a movie and find similar movie names.
